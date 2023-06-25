@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fin-learn-d3f47"
+  },
+  "targets": {
+    "fin-learn-d3f47": {
+      "hosting": {
+        "Website": [
+          "fin-learn-d3f47"
+        ]
+      }
+    }
+  }
+}
